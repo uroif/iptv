@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/beartv_epg.xml"
 
 
-#__EXTINF:-1 tvg-id="bbc-earth" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png", BBC Earth
-#__http://live-vnp.vthanhtivi.pw:18001/BBC_EARTH_HD/index.m3u8
 #EXTINF:-1 tvg-id="bbc-earth" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -10,7 +8,7 @@
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 #EXTINF:-1 tvg-id="bbc-earth" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png", BBC Earth
 http://194.76.186.33:8000/play/a03p/index.m3u8
-
+#__http://live-vnp.vthanhtivi.pw:18001/BBC_EARTH_HD/index.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png", National Geographic HD
 http://donglao.duckdns.org/vn360sport/ytb_natgeo.php
 #http://live-vnp.vthanhtivi.pw:18001/NATGEO_HD/index.m3u8
@@ -27,20 +25,19 @@ https://code.vthanhtivi.pw/getlink/tv360/135/2.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 #EXTINF:-1 tvg-id="animal-planet" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png", Animal Planet
 http://live-vnp.vthanhtivi.pw:18001/ANIMAL_PLANET_HD/index.m3u8
-#EXTINF:-1 tvg-id="animal-planet" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png", Animal Planet 2
-https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b2500000.m3u8
+#_https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/220px-2019_Discovery_logo.svg.png", Discovery
 http://live-vnp.vthanhtivi.pw:18001/DISCOVERY_HD/index.m3u8
-#EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/220px-2019_Discovery_logo.svg.png", Discovery Dự phòng
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/getlink/tvfree/discovery/playlist.m3u8
+#_EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/220px-2019_Discovery_logo.svg.png", Discovery Dự phòng
+#_EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#_https://code.vthanhtivi.pw/getlink/tvfree/discovery/playlist.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/220px-Discovery_Asia_logo.svg.png", Discovery Asia
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZptkapWgm8KZoKWWl6SjkZxqYF5nYqA=&time=1694027318&vieon&id=discovery-asia
 https://liveott.msky.vn/live_dzones/dscasia.smil/manifest.mpd
-#EXTINF:-1 tvg-id="davincihd" group-title="🌿| Khám phá" tvg-logo="https://scontent.fsgn5-3.fna.fbcdn.net/v/t1.18169-9/26231687_859946060833815_7714966175086221220_n.png", Da Vinci HD
+#EXTINF:-1 tvg-id="davincihd" group-title="🌿| Khám phá" tvg-logo="https://www.pngitem.com/pimgs/m/444-4444870_da-vinci-tv-logo-hd-png-download.png", Da Vinci HD
 #https://code.vthanhtivi.pw/getlink/fptplay/da-vinci-learning/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png", History HD
 http://live-vnp.vthanhtivi.pw:18001/HISTORY_HD/index.m3u8
@@ -51,25 +48,23 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="nasatv" group-title="🌿| Khám phá" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg", NASA TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#_EXTINF:-1 tvg-id="nasatv" group-title="🌿| Khám phá" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="KÊNH QUỐC TẾ", NASA TV Dự phòng
 #_https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
 
 #EXTINF:-1 tvg-id="hbo-hd" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/320px-HBO-Logo.svg.png", HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
-#EXTINF:-1 tvg-id="hbo-hd" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/320px-HBO-Logo.svg.png", HBO HD Dự phòng
-http://live-vnp.vthanhtivi.pw:18001/HBO/index.m3u8
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=hbohd
-https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-http://14.169.65.69:8889/rtp/232.84.3.101:10648
-
+#_EXTINF:-1 tvg-id="hbo-hd" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/320px-HBO-Logo.svg.png", HBO HD Dự phòng
+#_http://live-vnp.vthanhtivi.pw:18001/HBO/index.m3u8
+#_http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=hbohd
+#_https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+#_http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+#_http://14.169.65.69:8889/rtp/232.84.3.101:10648
 #EXTINF:-1 tvg-id="cinemax" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/320px-Cinemax.svg.png", Cinemax HD
 http://live-vnp.vthanhtivi.pw:18001/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-id="cinemax" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/320px-Cinemax.svg.png", Cinemax HD Dự phòng
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
+#_EXTINF:-1 tvg-id="cinemax" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/320px-Cinemax.svg.png", Cinemax HD Dự phòng
+#_EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#_https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Box_Movie_1_2018.png/revision/latest?cb=20230114001123&path-prefix=vi", Box Movie SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
@@ -118,7 +113,7 @@ https://code.vthanhtivi.pw/getlink/tvfree/axn/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZptkapWgm8KZoKWWl6SjkZxqYF5nYqA=&time=1694027318&vieon&id=cinema-world
 https://liveott.msky.vn/live_dzones/cinemaworld.smil/manifest.mpd
-#EXTINF:-1 tvg-id="warnertvhd" group-title="🎞| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png", Warner TV
+#EXTINF:-1 tvg-id="warnertvhd" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/150px-Warner2018LA.png", Warner TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZptkapWgm8KZoKWWl6SjkZxqYF5nYqA=&time=1694027318&vieon&id=warner-tv
