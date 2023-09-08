@@ -1,17 +1,15 @@
-#EXTM3U url-tvg="http://gg.gg/coocaaE"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/beartv_epg.xml"
 
 
-#EXTINF:-1 tvg-id="bbc-earth" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png", BBC Earth
-http://live-vnp.vthanhtivi.pw:18001/BBC_EARTH_HD/index.m3u8
+#__EXTINF:-1 tvg-id="bbc-earth" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png", BBC Earth
+#__http://live-vnp.vthanhtivi.pw:18001/BBC_EARTH_HD/index.m3u8
 #EXTINF:-1 tvg-id="bbc-earth" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/bbcearth.php
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
-#EXTINF:-1 tvg-id="bbc-earth" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png", BBC Earth 2
+#EXTINF:-1 tvg-id="bbc-earth" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png", BBC Earth
 http://194.76.186.33:8000/play/a03p/index.m3u8
-#EXTINF:-1 tvg-id="bbc-earth" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png", BBC Earth 3
-http://b8cd878a.edmonst.net/iptv/W7VTKMR8TMMME5/12098/index.m3u8
 
 #EXTINF:-1 tvg-id="ngchd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png", National Geographic HD
 http://donglao.duckdns.org/vn360sport/ytb_natgeo.php
@@ -37,24 +35,24 @@ http://live-vnp.vthanhtivi.pw:18001/DISCOVERY_HD/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/220px-2019_Discovery_logo.svg.png", Discovery Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/discovery/playlist.m3u8
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/220px-Discovery_Asia_logo.svg.png", Discovery Asia
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZptkapWgm8KZoKWWl6SjkZxqYF5nYqA=&time=1694027318&vieon&id=discovery-asia
 https://liveott.msky.vn/live_dzones/dscasia.smil/manifest.mpd
-#EXTINF:-1 tvg-id="davincihd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/202.png", Da Vinci HD
+#EXTINF:-1 tvg-id="davincihd" group-title="🌿| Khám phá" tvg-logo="https://scontent.fsgn5-3.fna.fbcdn.net/v/t1.18169-9/26231687_859946060833815_7714966175086221220_n.png", Da Vinci HD
 #https://code.vthanhtivi.pw/getlink/fptplay/da-vinci-learning/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
+#EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png", History HD
 http://live-vnp.vthanhtivi.pw:18001/HISTORY_HD/index.m3u8
-#EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel HD
+#EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/150px-Outdoor_Channel_logo_2017.svg.png", Outdoor Channel HD
 https://code.vthanhtivi.pw/getlink/tv360/216/2.m3u8
 #EXTINF:-1 tvg-id="lovenature" group-title="🌿| Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="nasatv" group-title="🌿| Khám phá" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg", NASA TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="nasatv" group-title="🌿| Khám phá" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="KÊNH QUỐC TẾ", NASA TV Dự phòng
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#_EXTINF:-1 tvg-id="nasatv" group-title="🌿| Khám phá" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="KÊNH QUỐC TẾ", NASA TV Dự phòng
+#_https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
 
 #EXTINF:-1 tvg-id="hbo-hd" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/320px-HBO-Logo.svg.png", HBO HD
@@ -78,22 +76,22 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/Hollywood_Classics.png/revision/latest?cb=20230123164105&path-prefix=vi", Hollywood Classics SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Box_Movie_1_2018.png/revision/latest?cb=20230114001123&path-prefix=vi", Box Movie
-#http://live-vnp.vthanhtivi.pw:18001/BOX_MOVIE_1/index.m3u8
-https://code.vthanhtivi.pw/getlink/cliptv/f2341acbc82d6b973dbecf1e05c94c5d/1694027318/box-movie-1-hd/chunklist_b5128000.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Box_Movie_1_2018.png/revision/latest?cb=20230114001123&path-prefix=vi", Box Movie (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZptkapWgm8KZoKWWl6SjkZxqYF5nYqA=&time=1694027318&tv360&id=159
-http://code.vthanhtivi.pw/getlink/tv360_2/159/manifest.mpd
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/Hollywood_Classics.png/revision/latest?cb=20230123164105&path-prefix=vi", Hollywood Classics
-#http://live-vnp.vthanhtivi.pw:18001/HOLLYWOOD_CLASSICS/index.m3u8
-https://code.vthanhtivi.pw/getlink/cliptv/f2341acbc82d6b973dbecf1e05c94c5d/1694027318/hollywood-classics-hd/chunklist_b5128000.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/Hollywood_Classics.png/revision/latest?cb=20230123164105&path-prefix=vi", Hollywood Classics (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZptkapWgm8KZoKWWl6SjkZxqYF5nYqA=&time=1694027318&tv360&id=160
-http://code.vthanhtivi.pw/getlink/tv360_2/160/manifest.mpd
+#_EXTINF:-1 tvg-id="boxmovie1" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Box_Movie_1_2018.png/revision/latest?cb=20230114001123&path-prefix=vi", Box Movie
+#_http://live-vnp.vthanhtivi.pw:18001/BOX_MOVIE_1/index.m3u8
+#_https://code.vthanhtivi.pw/getlink/cliptv/f2341acbc82d6b973dbecf1e05c94c5d/1694027318/box-movie-1-hd/chunklist_b5128000.m3u8
+#_EXTINF:-1 tvg-id="boxmovie1" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Box_Movie_1_2018.png/revision/latest?cb=20230114001123&path-prefix=vi", Box Movie (MPD)
+#_KODIPROP:inputstream.adaptive.manifest_type=dash
+#_KODIPROP:inputstream.adaptive.license_type=clearkey
+#_KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZptkapWgm8KZoKWWl6SjkZxqYF5nYqA=&time=1694027318&tv360&id=159
+#_http://code.vthanhtivi.pw/getlink/tv360_2/159/manifest.mpd
+#_EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/Hollywood_Classics.png/revision/latest?cb=20230123164105&path-prefix=vi", Hollywood Classics
+#_http://live-vnp.vthanhtivi.pw:18001/HOLLYWOOD_CLASSICS/index.m3u8
+#_https://code.vthanhtivi.pw/getlink/cliptv/f2341acbc82d6b973dbecf1e05c94c5d/1694027318/hollywood-classics-hd/chunklist_b5128000.m3u8
+#_EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/Hollywood_Classics.png/revision/latest?cb=20230123164105&path-prefix=vi", Hollywood Classics (MPD)
+#_KODIPROP:inputstream.adaptive.manifest_type=dash
+#_KODIPROP:inputstream.adaptive.license_type=clearkey
+#_KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZptkapWgm8KZoKWWl6SjkZxqYF5nYqA=&time=1694027318&tv360&id=160
+#_http://code.vthanhtivi.pw/getlink/tv360_2/160/manifest.mpd
 #EXTINF:-1 tvg-id="inthebox" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b8/InTheBOX_Channel_screenbug.png/revision/latest?cb=20230205100709&path-prefix=vi", In The Box
 #http://live-vnp.vthanhtivi.pw:18001/IN_THE_BOX/index.m3u8
 https://code.vthanhtivi.pw/getlink/cliptv/f2341acbc82d6b973dbecf1e05c94c5d/1694027318/in-the-box-channel/chunklist_b5128000.m3u8
