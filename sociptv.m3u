@@ -8,7 +8,7 @@
 #_https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 #EXTINF:-1 tvg-id="bbc-earth" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png", BBC Earth
 http://194.76.186.33:8000/play/a03p/index.m3u8
-#__http://live-vnp.vthanhtivi.pw:18001/BBC_EARTH_HD/index.m3u8
+#_http://live-vnp.vthanhtivi.pw:18001/BBC_EARTH_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ngchd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png", National Geographic HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -20,10 +20,10 @@ https://code.vthanhtivi.pw/getlink/tvfree/natgeo/playlist.m3u8
 http://donglao.duckdns.org/vn360sport/ytb_natgeowil.php
 #http://live-vnp.vthanhtivi.pw:18001/NATGEO_WILD_HD/index.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
-https://code.vthanhtivi.pw/getlink/tv360/135/2.m3u8
+#_https://code.vthanhtivi.pw/getlink/tv360/135/2.m3u8
 #_EXTINF:-1 tvg-id="planetearthhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth SCTV
 #_EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#_https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 #EXTINF:-1 tvg-id="animal-planet" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png", Animal Planet
 #_http://live-vnp.vthanhtivi.pw:18001/ANIMAL_PLANET_HD/index.m3u8
 http://livecdn.fptplay.net/qnetlive/animalplanet_2000.stream/chunklist.m3u8
