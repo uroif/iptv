@@ -1,30 +1,32 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/beartv_epg.xml"
 
 
-#EXTINF:-1 tvg-id="bbc-earth" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth MyTV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/bbcearth.php
-https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
+#_EXTINF:-1 tvg-id="bbc-earth" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth MyTV
+#_KODIPROP:inputstream.adaptive.manifest_type=dash
+#_KODIPROP:inputstream.adaptive.license_type=clearkey
+#_KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/bbcearth.php
+#_https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 #EXTINF:-1 tvg-id="bbc-earth" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png", BBC Earth
 http://194.76.186.33:8000/play/a03p/index.m3u8
 #__http://live-vnp.vthanhtivi.pw:18001/BBC_EARTH_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="ngchd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png", National Geographic HD
-http://donglao.duckdns.org/vn360sport/ytb_natgeo.php
-#http://live-vnp.vthanhtivi.pw:18001/NATGEO_HD/index.m3u8
-#EXTINF:-1 tvg-id="ngchd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png", National Geographic HD Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/natgeo/playlist.m3u8
+#_http://donglao.duckdns.org/vn360sport/ytb_natgeo.php
+#_http://live-vnp.vthanhtivi.pw:18001/NATGEO_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="ngwhd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png", Nat Geo Wild HD
 http://donglao.duckdns.org/vn360sport/ytb_natgeowil.php
 #http://live-vnp.vthanhtivi.pw:18001/NATGEO_WILD_HD/index.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
 https://code.vthanhtivi.pw/getlink/tv360/135/2.m3u8
-#EXTINF:-1 tvg-id="planetearthhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth SCTV
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
+#_EXTINF:-1 tvg-id="planetearthhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth SCTV
+#_EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#_https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 #EXTINF:-1 tvg-id="animal-planet" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png", Animal Planet
-http://live-vnp.vthanhtivi.pw:18001/ANIMAL_PLANET_HD/index.m3u8
+#_http://live-vnp.vthanhtivi.pw:18001/ANIMAL_PLANET_HD/index.m3u8
+http://livecdn.fptplay.net/qnetlive/animalplanet_2000.stream/chunklist.m3u8
 #_https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/220px-2019_Discovery_logo.svg.png", Discovery
@@ -87,6 +89,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 #_KODIPROP:inputstream.adaptive.license_type=clearkey
 #_KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZptkapWgm8KZoKWWl6SjkZxqYF5nYqA=&time=1694027318&tv360&id=160
 #_http://code.vthanhtivi.pw/getlink/tv360_2/160/manifest.mpd
+
 #EXTINF:-1 tvg-id="inthebox" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b8/InTheBOX_Channel_screenbug.png/revision/latest?cb=20230205100709&path-prefix=vi", In The Box
 #http://live-vnp.vthanhtivi.pw:18001/IN_THE_BOX/index.m3u8
 https://code.vthanhtivi.pw/getlink/cliptv/f2341acbc82d6b973dbecf1e05c94c5d/1694027318/in-the-box-channel/chunklist_b5128000.m3u8
@@ -95,19 +98,21 @@ https://code.vthanhtivi.pw/getlink/cliptv/f2341acbc82d6b973dbecf1e05c94c5d/16940
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZptkapWgm8KZoKWWl6SjkZxqYF5nYqA=&time=1694027318&tv360&id=235
 http://code.vthanhtivi.pw/getlink/tv360_2/235/manifest.mpd
+
 #EXTINF:-1 tvg-id="boxhits" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0c/Box_Hits_b%E1%BA%A3n_2.png/revision/latest?cb=20230406082828&path-prefix=vi", Box Hits
-#http://live-vnp.vthanhtivi.pw:18001/BOX_HITS/index.m3u8
+#_http://live-vnp.vthanhtivi.pw:18001/BOX_HITS/index.m3u8
 https://code.vthanhtivi.pw/getlink/cliptv/f2341acbc82d6b973dbecf1e05c94c5d/1694027318/box-hits/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0c/Box_Hits_b%E1%BA%A3n_2.png/revision/latest?cb=20230406082828&path-prefix=vi", Box Hits (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZptkapWgm8KZoKWWl6SjkZxqYF5nYqA=&time=1694027318&tv360&id=239
 http://code.vthanhtivi.pw/getlink/tv360_2/239/manifest.mpd
+
 #EXTINF:-1 tvg-id="axnhd" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/320px-AXN_logo.svg.png", AXN HD
 http://live-vnp.vthanhtivi.pw:18001/AXN_HD/index.m3u8
-#EXTINF:-1 tvg-id="axnhd" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/320px-AXN_logo.svg.png", AXN HD Dự phòng
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/getlink/tvfree/axn/playlist.m3u8
+#_EXTINF:-1 tvg-id="axnhd" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/320px-AXN_logo.svg.png", AXN HD Dự phòng
+#_EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#_https://code.vthanhtivi.pw/getlink/tvfree/axn/playlist.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/CinemaWorld_2022.png/revision/latest?cb=20220707061525&path-prefix=vi", CinemaWorld
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
