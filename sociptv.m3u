@@ -15,13 +15,13 @@ http://b8cd878a.edmonst.net/iptv/W7VTKMR8TMMME5/12098/index.m3u8
 
 #EXTINF:-1 tvg-id="ngchd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png", National Geographic HD
 http://donglao.duckdns.org/vn360sport/ytb_natgeo.php
-http://live-vnp.vthanhtivi.pw:18001/NATGEO_HD/index.m3u8
+#http://live-vnp.vthanhtivi.pw:18001/NATGEO_HD/index.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png", National Geographic HD Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/natgeo/playlist.m3u8
 #EXTINF:-1 tvg-id="ngwhd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png", Nat Geo Wild HD
 http://donglao.duckdns.org/vn360sport/ytb_natgeowil.php
-http://live-vnp.vthanhtivi.pw:18001/NATGEO_WILD_HD/index.m3u8
+#http://live-vnp.vthanhtivi.pw:18001/NATGEO_WILD_HD/index.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
 https://code.vthanhtivi.pw/getlink/tv360/135/2.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth SCTV
