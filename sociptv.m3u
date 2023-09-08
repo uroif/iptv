@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg_lite.xml.gz"
 
 
-#EXTINF:-1 tvg-id="bbc-earth" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth
+#EXTINF:-1 tvg-id="bbc-earth" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png", BBC Earth
 http://live-vnp.vthanhtivi.pw:18001/BBC_EARTH_HD/index.m3u8
 #EXTINF:-1 tvg-id="bbc-earth" group-title="🌿| Khám phá" tvg-logo="https://i.ibb.co/3SRxHXv/BBC-Earth.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -14,12 +14,12 @@ http://194.76.186.33:8000/play/a03p/index.m3u8
 http://b8cd878a.edmonst.net/iptv/W7VTKMR8TMMME5/12098/index.m3u8
 #EXTINF:-1 tvg-id="bbc-earth" group-title="🌿| Khám phá" tvg-logo="https://gg.gg/sonybbc-e" group-title="DU LỊCH & KHÁM PHÁ", BBC Earth Airtel
 http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-id="ngchd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", National Geographic HD
+#EXTINF:-1 tvg-id="ngchd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png", National Geographic HD
 http://live-vnp.vthanhtivi.pw:18001/NATGEO_HD/index.m3u8
-#EXTINF:-1 tvg-id="ngchd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", National Geographic HD Dự phòng
+#EXTINF:-1 tvg-id="ngchd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png", National Geographic HD Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/natgeo/playlist.m3u8
-#EXTINF:-1 tvg-id="nat-geo-wild" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", Nat Geo Wild HD
+#EXTINF:-1 tvg-id="ngwhd" group-title="🌿| Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png", Nat Geo Wild HD
 http://live-vnp.vthanhtivi.pw:18001/NATGEO_WILD_HD/index.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
 https://code.vthanhtivi.pw/getlink/tv360/135/2.m3u8
