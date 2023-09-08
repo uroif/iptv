@@ -61,9 +61,9 @@ http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=hbohd
 #EXTINF:-1 tvg-id="hbo-hd" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/320px-HBO-Logo.svg.png", HBO HD Dự phòng 3
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="hbo-hd" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/320px-HBO-Logo.svg.png", HBO HD Dự phòng 4
-https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-id="hbo-hd" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/320px-HBO-Logo.svg.png", HBO HD Dự phòng 5
-http://live.vthanhtivi.pw/hbo/index.m3u8
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/8262?
 
 #EXTINF:-1 tvg-id="cinemax" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/320px-Cinemax.svg.png", Cinemax HD
 http://live-vnp.vthanhtivi.pw:18001/CINEMAX/index.m3u8
