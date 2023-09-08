@@ -44,41 +44,50 @@ https://liveott.msky.vn/live_dzones/dscasia.smil/manifest.mpd
 http://live-vnp.vthanhtivi.pw:18001/HISTORY_HD/index.m3u8
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel HD
 https://code.vthanhtivi.pw/getlink/tv360/216/2.m3u8
-#EXTINF:-1 tvg-id="nasatv" group-title="🌿| Khám phá" tvg-logo="https://i.ibb.co/G9xvRJZ/nasalogobyvovanloc.png", NASA TV
+#EXTINF:-1 tvg-id="nasatv" group-title="🌿| Khám phá" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg", NASA TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="nasatv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="KÊNH QUỐC TẾ", NASA TV Dự phòng
+#EXTINF:-1 tvg-id="nasatv" group-title="🌿| Khám phá" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="KÊNH QUỐC TẾ", NASA TV Dự phòng
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
 
-#EXTINF:-1 tvg-id="hbo-hd" group-title="🎞| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
+#EXTINF:-1 tvg-id="hbo-hd" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/320px-HBO-Logo.svg.png", HBO HD
 http://live-vnp.vthanhtivi.pw:18001/HBO/index.m3u8
-#EXTINF:-1 tvg-id="hbo-hd" group-title="🎞| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD Dự phòng
+#EXTINF:-1 tvg-id="hbo-hd" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/320px-HBO-Logo.svg.png", HBO HD Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
-#EXTINF:-1 tvg-id="cinemax" group-title="🎞| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
+#EXTINF:-1 tvg-id="hbo-hd" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/320px-HBO-Logo.svg.png", HBO HD Dự phòng 2
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=hbohd
+#EXTINF:-1 tvg-id="hbo-hd" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/320px-HBO-Logo.svg.png", HBO HD Dự phòng 3
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="hbo-hd" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/320px-HBO-Logo.svg.png", HBO HD Dự phòng 4
+https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="hbo-hd" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/320px-HBO-Logo.svg.png", HBO HD Dự phòng 5
+http://live.vthanhtivi.pw/hbo/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/320px-Cinemax.svg.png", Cinemax HD
 http://live-vnp.vthanhtivi.pw:18001/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-id="cinemax" group-title="🎞| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD Dự phòng
+#EXTINF:-1 tvg-id="cinemax" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/320px-Cinemax.svg.png", Cinemax HD Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" group-title="🎞| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie SCTV
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Box_Movie_1_2018.png/revision/latest?cb=20230114001123&path-prefix=vi", Box Movie SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎞| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics SCTV
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/Hollywood_Classics.png/revision/latest?cb=20230123164105&path-prefix=vi", Hollywood Classics SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" group-title="🎞| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Box_Movie_1_2018.png/revision/latest?cb=20230114001123&path-prefix=vi", Box Movie
 #http://live-vnp.vthanhtivi.pw:18001/BOX_MOVIE_1/index.m3u8
 https://code.vthanhtivi.pw/getlink/cliptv/f2341acbc82d6b973dbecf1e05c94c5d/1694027318/box-movie-1-hd/chunklist_b5128000.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" group-title="🎞| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie (MPD)
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Box_Movie_1_2018.png/revision/latest?cb=20230114001123&path-prefix=vi", Box Movie (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZptkapWgm8KZoKWWl6SjkZxqYF5nYqA=&time=1694027318&tv360&id=159
 http://code.vthanhtivi.pw/getlink/tv360_2/159/manifest.mpd
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎞| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/Hollywood_Classics.png/revision/latest?cb=20230123164105&path-prefix=vi", Hollywood Classics
 #http://live-vnp.vthanhtivi.pw:18001/HOLLYWOOD_CLASSICS/index.m3u8
 https://code.vthanhtivi.pw/getlink/cliptv/f2341acbc82d6b973dbecf1e05c94c5d/1694027318/hollywood-classics-hd/chunklist_b5128000.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎞| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics (MPD)
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/Hollywood_Classics.png/revision/latest?cb=20230123164105&path-prefix=vi", Hollywood Classics (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZptkapWgm8KZoKWWl6SjkZxqYF5nYqA=&time=1694027318&tv360&id=160
@@ -99,12 +108,12 @@ https://code.vthanhtivi.pw/getlink/cliptv/f2341acbc82d6b973dbecf1e05c94c5d/16940
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZptkapWgm8KZoKWWl6SjkZxqYF5nYqA=&time=1694027318&tv360&id=239
 http://code.vthanhtivi.pw/getlink/tv360_2/239/manifest.mpd
-#EXTINF:-1 tvg-id="axnhd" group-title="🎞| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD
+#EXTINF:-1 tvg-id="axnhd" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/320px-AXN_logo.svg.png", AXN HD
 http://live-vnp.vthanhtivi.pw:18001/AXN_HD/index.m3u8
-#EXTINF:-1 tvg-id="axnhd" group-title="🎞| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD Dự phòng
+#EXTINF:-1 tvg-id="axnhd" group-title="🎞| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/320px-AXN_logo.svg.png", AXN HD Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/axn/playlist.m3u8
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎞| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/CinemaWorld_2022.png/revision/latest?cb=20220707061525&path-prefix=vi", CinemaWorld
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZptkapWgm8KZoKWWl6SjkZxqYF5nYqA=&time=1694027318&vieon&id=cinema-world
