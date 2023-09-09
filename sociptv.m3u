@@ -80,10 +80,10 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZptkapWgm8KZoKWWl6SjkZxqYF5nYqA=&time=1694027318&tv360&id=159
 #http://code.vthanhtivi.pw/getlink/tv360_2/159/manifest.mpd
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/Hollywood_Classics.png/revision/latest?cb=20230123164105&path-prefix=vi", Hollywood Classics
+#:EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/Hollywood_Classics.png/revision/latest?cb=20230123164105&path-prefix=vi", Hollywood Classics
 #http://live-vnp.vthanhtivi.pw:18001/HOLLYWOOD_CLASSICS/index.m3u8
 #https://code.vthanhtivi.pw/getlink/cliptv/f2341acbc82d6b973dbecf1e05c94c5d/1694027318/hollywood-classics-hd/chunklist_b5128000.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/Hollywood_Classics.png/revision/latest?cb=20230123164105&path-prefix=vi", Hollywood Classics (MPD)
+#:EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎞| Phim" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/Hollywood_Classics.png/revision/latest?cb=20230123164105&path-prefix=vi", Hollywood Classics (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZptkapWgm8KZoKWWl6SjkZxqYF5nYqA=&time=1694027318&tv360&id=160
