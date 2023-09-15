@@ -10,9 +10,9 @@ http://194.76.186.33:8000/play/a03p/index.m3u8
 #http://live-vnp.vthanhtivi.pw:18001/BBC_EARTH_HD/index.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="1 - KHÁM PHÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png", National Geographic HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/getlink/tvfree/natgeo/playlist.m3u8
+#https://code.vthanhtivi.pw/getlink/tvfree/natgeo/playlist.m3u8
 #http://donglao.duckdns.org/vn360sport/ytb_natgeo.php
-#http://live-vnp.vthanhtivi.pw:18001/NATGEO_HD/index.m3u8
+http://live-vnp.vthanhtivi.pw:18001/NATGEO_HD/index.m3u8
 #EXTINF:-1 tvg-id="ngwhd" group-title="1 - KHÁM PHÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png", Nat Geo Wild HD
 http://donglao.duckdns.org/vn360sport/ytb_natgeowil.php
 #http://live-vnp.vthanhtivi.pw:18001/NATGEO_WILD_HD/index.m3u8
@@ -50,19 +50,21 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 #EXTINF:-1 tvg-id="hbo-hd" group-title="2 - PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/320px-HBO-Logo.svg.png", HBO HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
-#EXTINF:-1 tvg-id="hbo-hd" group-title="2 - PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/320px-HBO-Logo.svg.png", HBO HD Dự phòng
-#http://live-vnp.vthanhtivi.pw:18001/HBO/index.m3u8
+http://live-vnp.vthanhtivi.pw:18001/HBO/index.m3u8
 #http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=hbohd
 #https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #http://14.169.65.69:8889/rtp/232.84.3.101:10648
+#EXTINF:-1 tvg-id="hbo-hd" group-title="2 - PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/320px-HBO-Logo.svg.png", HBO HD Dự phòng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
+
 #EXTINF:-1 tvg-id="cinemax" group-title="2 - PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/320px-Cinemax.svg.png", Cinemax HD
 http://live-vnp.vthanhtivi.pw:18001/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-id="cinemax" group-title="2 - PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/320px-Cinemax.svg.png", Cinemax HD Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
+
 #EXTINF:-1 tvg-id="boxmovie1" group-title="2 - PHIM" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Box_Movie_1_2018.png/revision/latest?cb=20230114001123&path-prefix=vi", Box Movie SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
